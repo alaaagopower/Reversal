@@ -1,1 +1,2 @@
-# reversal-language
+# reversal language
+灵感来源于豆瓣小组讨论 ...
